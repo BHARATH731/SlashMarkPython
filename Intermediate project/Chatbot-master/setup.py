@@ -30,7 +30,7 @@ setup(
     version=version['__version__'],
     author="Reniguntla Bharadwaj",
     author_email="renibharadwaj@gmail.com",
-    url="",
+    url="https://github.com/BHARATH731/SlashMarkPython/tree/master/Intermediate%20project/Chatbot-master",
     description="A chatbot AI engine is a chatbot builder platform that provides both bot intelligence and"
                 " chat handler with minimal codding",
     long_description=long_description,
